@@ -41,18 +41,6 @@ nav {
     width: 100%;
 }
 
-/* .textMain {
-    margin: 100px;
-    text-align: center;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: left;
-    gap: 40px;
-    max-width: 800px; 
-    overflow-wrap: break-word; Allow words to break and wrap
-} */
-
 .textMain {
     margin: 100px;
     text-align: center;
@@ -69,15 +57,6 @@ nav {
     display: flex;
     align-items: flex-end;
 }
-
-/* .image-container { IMAGE CODE
-    background-image: no-repeat cover center center url(/portrait.jpeg);
-    height: 90vh;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
 
 .nav-links li a {
     color:aliceblue;
